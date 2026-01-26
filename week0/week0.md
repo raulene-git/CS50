@@ -1,4 +1,8 @@
-CS 50 - Week 0 - Starting from Scratch
+CS50- Week 0: Starting From Scratch
 
+This week introduces the fundamentals of computer science using Scratch.
+The focus is on core concepts such as sequencing, loops, conditionals,
+and events rather than syntax.
 
-This is the first project of the CS50 in which it requires us to begin the fundamentals by learning visual code on Scratch
+This project helped me think about program flow and logic before moving
+on to text-based programming.
